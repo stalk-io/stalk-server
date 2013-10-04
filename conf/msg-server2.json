@@ -1,0 +1,16 @@
+{
+    "port": 8082,
+    "host": "ch0002.stalk.io",
+    "channel": "CH0002",
+
+    "redis-address": {
+        "host": "localhost",
+        "port": 7000
+    },
+
+    "zookeeper-address": [
+    				{"host" : "localhost", "port" : "2181"}
+    			],
+    "zookeeper-timeout": 4000,
+    "zookeeper-rootPath": "/STALK/nodes"
+}

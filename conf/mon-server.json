@@ -1,0 +1,14 @@
+{
+    "port": 9001,
+
+    "redis-address": {
+        "host": "localhost",
+        "port": 7000
+    },
+
+    "zookeeper-address": [
+    				{"host" : "localhost", "port" : "2181"}
+    			],
+    "zookeeper-timeout": 4000,
+    "zookeeper-rootPath": "/STALK/nodes"
+}
