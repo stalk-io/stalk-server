@@ -3,6 +3,8 @@ live web chat service on your web pages
 
 http://stalk.io
 
+#### We re-implement this project with node.js and new name of this project (https://github.com/xpush)
+
 ### stalk.io
 It’s a useful communication tool for your web sites that lets you create free and multi-user live chat with no Active-X and no plugins, just by very simple installation.
 
